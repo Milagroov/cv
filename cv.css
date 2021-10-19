@@ -5,3 +5,10 @@ background-image:url(fond.jpg);
 background-repeat:no-repeat;
 background-position:right top;
 }
+p {
+font-family: Tahoma, Verdana, sans-serif;
+}
+
+h2 {
+font-family: Copperplate, Verdana, sans-serif;
+}
