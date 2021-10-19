@@ -17,3 +17,7 @@ font-family: copperplate1, Verdana, sans-serif;
     font-family: 'copperplate1';
     src: url('OPTICopperplate.otf');
 }
+
+@font-face {
+    font-family: 'copperplate2';
+    src: url('OPTICopperplate-Heavy.otf');
