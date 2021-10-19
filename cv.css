@@ -10,5 +10,10 @@ font-family: Tahoma, Verdana, sans-serif;
 }
 
 h2 {
-font-family: Copperplate, Verdana, sans-serif;
+font-family: copperplate1, Verdana, sans-serif;
+}
+
+@font-face {
+    font-family: 'copperplate1';
+    src: url('OPTICopperplate.otf');
 }
